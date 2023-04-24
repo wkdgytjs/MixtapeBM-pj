@@ -1,8 +1,6 @@
 ## Springboot-shoppingmall
 > 2023.02.13 ~ 2023.03.13까지 진행한 관리자모드 기반 쇼핑몰 프로젝트입니다.
 
-<br>
-
 ### Description
 <table>
   <tr>
@@ -11,6 +9,7 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
     </td>
   </tr>
 </table>
+
 ![MainIndex_1](https://user-images.githubusercontent.com/116870668/233907592-9cd7342d-1dc8-458b-91e1-6e19ff09a73d.jpg)
 
 <br>
@@ -83,9 +82,11 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
 ## 개발 관련 문서
 <details>
 <summary> ERD </summary>
+
 ![DB design](https://user-images.githubusercontent.com/116870668/233907352-f40ad61f-f589-41a4-add1-5ad99126ac35.jpg)
+
 </details>
 
 <br>
 
-## 화면 구성
+
