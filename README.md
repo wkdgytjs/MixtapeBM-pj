@@ -54,7 +54,7 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
   <tr>
     <td>Windows 10</td>
     <td>MySqL</td>
-    <td>IntelliJ, VSCode</td>
+    <td>IntelliJ, Visual Studio Code</td>
     <td>Spring Boot</td>
     <td>Java, HTML, CSS, Javascript</td>
   </tr>
