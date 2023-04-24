@@ -1,4 +1,4 @@
-## Springboot-shoppingmall
+# Springboot-shoppingmall
 > 2023.02.13 ~ 2023.03.13까지 진행한 관리자모드 기반 쇼핑몰 프로젝트입니다.
 
 ### Description
@@ -18,7 +18,7 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
 <table>
   <tr>
     <td>
-여러 상품(음악 트랙) 목록이 한 눈에 들어오는 장점이 있고, 타 쇼핑몰과 달리 항목이 많지 않고 상품 이미지가 난잡하지 않아 차분한 느낌이 들었다.
+여러 상품(음악 트랙) 목록이 한 눈에 들어오는 장점이 있고, 타 쇼핑몰과 달리 항목이 많지 않고 상품 이미지가 난잡하지 않아 차분한 느낌이 들었.
 또, 기존의 Mixtape Seoul에는 없는 아티스트들이 서로 소통을 할 수 있는 커뮤니티
 게시판을 추가하여 구현해보았습니다.
     </td>
@@ -32,12 +32,33 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
 
 <br>
 
+## 개발 관련 문서
+<details>
+<summary> ERD </summary>
+
+![DB design](https://user-images.githubusercontent.com/116870668/233907352-f40ad61f-f589-41a4-add1-5ad99126ac35.jpg)
+
+</details>
+
+<br>
+
 ## 사용한 기술 및 배포 환경
-- OS : Windows 10
-- Database : MySqL
-- IDE : IntelliJ, VSCode
-- Framework : Spring Boot
-- Language : Java, HTML, CSS, Javascript
+<table>
+  <tr>
+    <th>OS</th>
+    <th>Database</th>
+    <th>IDE</th>
+    <th>Framework</th>
+    <th>Language</th>
+  </tr>
+  <tr>
+    <td>Windows 10</td>
+    <td>MySqL</td>
+    <td>IntelliJ, VSCode</td>
+    <td>Spring Boot</td>
+    <td>Java, HTML, CSS, Javascript</td>
+  </tr>
+</table>
 
 <br>
 
@@ -79,14 +100,5 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
 
 <br>
 
-## 개발 관련 문서
-<details>
-<summary> ERD </summary>
-
-![DB design](https://user-images.githubusercontent.com/116870668/233907352-f40ad61f-f589-41a4-add1-5ad99126ac35.jpg)
-
-</details>
-
-<br>
 
 
