@@ -1,7 +1,7 @@
 # Springboot-shoppingmall 💽
 > 2023.02.13 ~ 2023.03.13까지 진행한 관리자모드 기반 쇼핑몰 프로젝트입니다.
 
-## 👀 Description
+## ❕ Description ❕
 <table>
   <tr>
     <td>
