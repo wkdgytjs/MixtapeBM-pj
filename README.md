@@ -87,7 +87,7 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
 <summary> 장효선 </summary>
 
 1. 상품서비스(CRUD) 
-2. 전체적인 디자인(CSS) 수정
+2. 메인페이지, 로그인, 회원가입페이지 디자인(Html,CSS) 제작
 3. Chat-bot
 </details>
 <details>
