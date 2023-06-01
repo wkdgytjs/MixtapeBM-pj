@@ -91,7 +91,40 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
 2. PPT제작
 </details>
 
-<br>
+***
+
+## 📋 상품페이지 기능
+
+<table>
+  <tr>
+    <td>
+상품페이지는 관리자 권한이 있는 사용자만 등록, 수정, 삭제 권한을 부여하여 처리 하였습니다.
+    </td>
+  </tr>
+</table>
+
+## ➰상품페이지 View 영상
+### 관리자 로그인
+![project1_admin_AdobeExpress](https://github.com/wkdgytjs/Groupware-pj/assets/116870668/72f636f6-ba9e-4bd8-b093-f42927675a8c)
+
+### 사용자 로그인
+![project1_member_AdobeExpress](https://github.com/wkdgytjs/Groupware-pj/assets/116870668/75819136-a565-4a41-96ff-8e676912768b)
+
+### 디렉토리 구성 및 ERD
+<details>
+<summary>디렉토리 구성</summary>
+  
+![track](https://github.com/wkdgytjs/Groupware-pj/assets/116870668/8901fbcd-2c85-4abe-8ba4-1ed121feaa6d)
+
+</details>
+<details>
+  
+<summary>ERD</summary>
+  
+![mixtape_erd](https://github.com/wkdgytjs/Groupware-pj/assets/116870668/5be5cf36-a328-40aa-b5ca-a30aff4e410c)
+  
+> 사용자 한명이 여러 상품을 담을 수 있고 장바구니에 여러 상품들이 담길 수 있어 member테이블은 item테이블과 1:N  item테이블은 cart_item테이블과 1:N 관계 설정
+</details>
 
 🔗Project(team) github Link : [MixtapeBM_SoppingMall](https://github.com/jichang-lee/Academy_first_project/tree/master)
 
