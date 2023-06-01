@@ -110,7 +110,7 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
 
 ### 사용자 로그인
 
-![project1_member](https://github.com/wkdgytjs/Groupware-pj/assets/116870668/94022dd6-6a95-4ee7-82dd-75e7b015234f)
+![ezgif com-video-to-gif](https://github.com/wkdgytjs/MixtapeBM-pj/assets/116870668/c42c53fe-0c8f-43e9-bb15-b70994a89151)
 
 ### 디렉토리 구성 및 ERD
 <details>
