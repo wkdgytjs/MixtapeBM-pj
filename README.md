@@ -91,6 +91,7 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
 3. Chat-bot
 </details>
 <details>
+  
 <summary> 허인경 </summary>
   
 1. 게시판서비스(CRUD)
@@ -99,5 +100,5 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
 
 <br>
 
-🔗Project(team) github Link : [PoliceOfficeGroupware](https://github.com/ckdtls1124/PoliceOfficeGroupware/tree/master_upload)
+🔗Project(team) github Link : [PoliceOfficeGroupware](https://github.com/jichang-lee/Academy_first_project/tree/master)
 
