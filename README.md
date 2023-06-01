@@ -27,7 +27,8 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
 <br>
 
 ## ➰개발 관련 문서
-ERD
+### ERD
+
 ![DB design](https://user-images.githubusercontent.com/116870668/233907352-f40ad61f-f589-41a4-add1-5ad99126ac35.jpg)
 
 
