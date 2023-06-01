@@ -26,11 +26,6 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
 
 <br>
 
-## ➰프로젝트 구성(Spring MVC Model2)
-![design](https://user-images.githubusercontent.com/116870668/233907336-53c5b845-5826-420e-b0ec-0279f3a232e5.jpg)
-
-<br>
-
 ## ➰개발 관련 문서
 <details>
 <summary> ERD </summary>
@@ -100,5 +95,5 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
 
 <br>
 
-🔗Project(team) github Link : [PoliceOfficeGroupware](https://github.com/jichang-lee/Academy_first_project/tree/master)
+🔗Project(team) github Link : [MixtapeBM_SoppingMall](https://github.com/jichang-lee/Academy_first_project/tree/master)
 
