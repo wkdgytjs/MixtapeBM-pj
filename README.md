@@ -106,7 +106,7 @@ Mixtape Seoul 이라는 음악 제작을 위한 디지털 믹스테이프를 판
 ## ➰상품페이지 View 영상
 ### 관리자 로그인
 
-![ezgif com-video-to-gif (1)](https://github.com/wkdgytjs/MixtapeBM-pj/assets/116870668/379d5e91-2174-4d6e-838d-9117405f083a)
+![project1_admin](https://github.com/wkdgytjs/MixtapeBM-pj/assets/116870668/4fde8ba5-2549-4a2e-830e-6365eed4fa42)
 
 ### 사용자 로그인
 
